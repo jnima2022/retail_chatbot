@@ -52,10 +52,6 @@ You can try this chatbot by clicking on example prompts in the UI or typing manu
   - "Hi", "Hello", "Hey"
   - "Bye", "See you", "Take care"
 
-### Additional Notes
-- Users can try clicking on example prompts for quick interaction.
-- The chatbot is flexible and understands different variations of a query, e.g., instead of "Do you have iPad Pro in stock?", you can ask "Is iPad Pro available?"
-
 ## Demo & Screenshots
 ![Chatbot UI](media/bot1.png)
 ![Gretings](media/bot2.png)
