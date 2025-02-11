@@ -26,7 +26,7 @@ This is an AI-powered chatbot for a retail store, leveraging NLP (Natural Langua
 - **Database**: SQLite (storing product details and order tracking data)
 
 ## Example Prompts
-You can try this chatbot by clicking on example prompts in the UI or typing manually. Example queries:
+You can try this chatbot by clicking on example prompts in the UI or typing manually. Checkout csv database folder to find other products & orders to test. Example queries:
 
 - **Product Inquiry:**
   - "What's the price of iPhone 15?"
@@ -55,7 +55,6 @@ You can try this chatbot by clicking on example prompts in the UI or typing manu
 ## Demo & Screenshots
 ![Chatbot UI](media/bot1.png)
 ![Gretings](media/bot2.png)
-![Features](media/bot3.png)
 ![Features](media/bot4.png)
 
 ## Installation
