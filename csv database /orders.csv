@@ -1,0 +1,11 @@
+id,order_id,product_id,status
+1,fad3b906,16,Processing
+2,bd41d787,7,Shipped
+3,8a0243d2,17,Cancelled
+4,3fc52ca4,5,Processing
+5,80a00c83,17,Cancelled
+6,b1299bcd,16,Delivered
+7,28a10b12,18,Processing
+8,02db4e48,27,Shipped
+9,0f50b59b,5,Shipped
+10,a5e73924,13,Shipped
