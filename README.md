@@ -59,27 +59,27 @@ You can try this chatbot by clicking on example prompts in the UI or typing manu
 
 ## Installation
 ### **1. Clone the repository**
-git clone https://github.com/jnima2022/retail_chatbot.git
-cd retail_chatbot
+- git clone https://github.com/jnima2022/retail_chatbot.git
+- cd retail_chatbot
 
 ### **2. Set up a virtual environment**
-python -m venv venv
-source venv/bin/activate  # Mac/Linux
-venv\\Scripts\\activate  # Windows
+- python -m venv venv
+- source venv/bin/activate  # Mac/Linux
+- venv\\Scripts\\activate  # Windows
 
 ### **3. Install dependencies**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### **4. Set up the database**
-python database_setup.py
+- python database_setup.py
 
 ### **5. Run the backend**
-uvicorn backend:app --reload
+- uvicorn backend:app --reload
 
 ### **6. Run the frontend**
-cd chatbot-ui
-npm install  # Install dependencies
-npm start    # Start the React app
+- cd chatbot-ui
+- npm install  # Install dependencies
+- npm start    # Start the React app
 
 ## Requirements
 - **Python 3.11** or lower (Recommended, as Python 3.13 may cause issues)
